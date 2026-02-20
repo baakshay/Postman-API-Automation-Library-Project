@@ -1,6 +1,3 @@
-# Postman-API-Automation-Library-Project
-End-to-End API Automation Testing using Postman, Newman, and Jenkins with CI/CD integration.
-
 # 🚀 API Automation Framework: Library Management System
 
 This repository demonstrates a robust API Automation Framework built using **Postman**, **Newman**, and **Jenkins**. It features data-driven testing, environment management, and a complete CI/CD pipeline integration.
